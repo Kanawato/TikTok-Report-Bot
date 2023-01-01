@@ -29,8 +29,8 @@
   
 ---------------------------------------
 ### Installation
-*Python 3.x is required
-*Open CMD and type: 
+* Python 3.x is required
+* Open CMD and type: 
 pip install -r requirements.txt
 ---------------------------------------
 ### Features
