@@ -31,7 +31,7 @@
 ### Installation
 * Python 3.x is required
 * Open CMD and type: 
-pip install -r requirements.txt
+* pip install -r requirements.txt
 ---------------------------------------
 ### Features
 * Easy to use
